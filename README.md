@@ -1,9 +1,8 @@
 # Downscaling GPMIMERG (11km to 1km) Using Geographical Weighted Regression (GWR) in R Studio & Monitoring CO Using Earth Engine
----
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-Active-brightgreen) ![RStudio](https://img.shields.io/badge/RStudio-Ready-blue) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
 This repository contains the example code and results for my final project "MAPPING CARBON MONOXIDE CONCENTRATION IN BANDUNG CITY USING SENTINEL-5P SATELLITE IMAGERY AND ITS CORRELATION WITH RAINFALL IN 2023" The study evaluates the correlation between rain precipitation and carbon monoxide (CO) in Bandung City.
----
+
 ## Keyword
 - Downscaling in R Studio
 - CO Monitoring Sentinel-5P in Earth Engine
