@@ -6,7 +6,7 @@ This repository contains the example code and results for my final project "MAPP
 ## Keyword
 - Downscaling in R Studio
 - CO Monitoring Sentinel-5P in Earth Engine
----
+
 ## Features
 - Algorithms: Geographical Weighted Regression (GWR), Cloud Computing GEE ([literature](https://github.com/KaryaPratala/EkaRamadhan_FinalProject/tree/main/Literature))
 - Preprocessing:
@@ -15,11 +15,11 @@ This repository contains the example code and results for my final project "MAPP
 -- Resampling
 - Evaluation Metrics: Mean Absolute Error (MAE), Root Mean Square Error (RMSE), R-Squared, & Scatter Plot
 ## Getting Started
----
+
 ### Prerequisites
 - R Language ([see installation](https://posit.co/download/rstudio-desktop/))
 - Google Earth Engine account ([sign up](https://earthengine.google.com/)).
 - Familiarity with JavaScript for executing the scripts in the GEE Code Editor.
----
+
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaramadhan/)
