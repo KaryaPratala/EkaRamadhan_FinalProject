@@ -23,3 +23,6 @@ This repository contains the example code and results for my final project "MAPP
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaramadhan/)
+
+## Acknowledgment
+[Firman Hadi](https://github.com/firmanhadi)
