@@ -1,0 +1,36 @@
+--Spesifikasi Data Curah Hujan--
+
+GPM IMERG Final Precipitation L3 1 month 0.1 degree x 0.1 degree V07 (GPM_3IMERGM)
+Summary:
+Version 07 is the current version of the data set. Older versions will no longer be available and 
+have been superseded by Version 07.
+
+The Integrated Multi-satellitE Retrievals for GPM (IMERG) IMERG is a NASA product estimating global 
+surface precipitation rates at a high resolution of 0.1° every half-hour beginning 2000. It is part 
+of the joint NASA-JAXA Global Precipitation Measurement (GPM) mission, using the GPM Core Observatory 
+satellite as the standard to combine precipitation observations from an international constellation 
+of satellites using advanced techniques. IMERG can be used for global-scale applications as well as 
+over regions with sparse or no reliable surface observations. The fine spatial and temporal resolution 
+of IMERG data allows them to be accumulated to the scale of the application for increased skill. 
+IMERG has three Runs with varying latencies in response to a range of application needs: rapid-response 
+applications (Early Run, 4-h latency), same/next-day applications (Late Run, 14-h latency), and 
+post-real-time research (Final Run, 3.5-month latency). While IMERG strives for consistency and accuracy,
+satellite estimates of precipitation are expected to have lower skill over frozen surfaces, 
+complex terrain, and coastal zones. As well, the changing GPM satellite constellation over time may 
+introduce artifacts that affect studies focusing on multi-year changes.
+
+Shortname:GPM_3IMERGM
+Longname:GPM IMERG Final Precipitation L3 1 month 0.1 degree x 0.1 degree V07
+DOI:10.5067/GPM/IMERG/3B-MONTH/07
+Version:07
+Format:HDF5
+Spatial Coverage:-180.0,-90.0,180.0,90.0
+Temporal Coverage:2000-06-01 to  2024-01-01
+File Size:30 MB per file
+Data Resolution
+Spatial:0.1 ° x 0.1 °
+Temporal:1 month
+Downloaded data: 2023-01-01 - 2023-12-31, Downloaded monthly, Units mm/month
+
+How to download: giovanni.gsfc.nasa.gov
+
